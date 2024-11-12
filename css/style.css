@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    margin-top: 40px;
+}
+.container {
+    background-color: #111;
+    border-radius: 10px;
+    color: #fff;
+    padding: 0px 0px 30px 0px;
+    margin:auto 60px
+}
+.container h2 {
+    padding: 25px 25px 0px 25px;
+}
+.container p {
+    padding-left: 25px;
+    padding-bottom: 10px;
+    color: #b2b2b2;
+}
+.yellow {
+    color: #febe01;
+}
+.container a {
+    background-color: #febe01;
+    text-decoration: none;
+    color: #320;
+    padding: 10px 10px 10px 10px;
+    border-radius: 10px;
+    margin: 25px;
+}
+body {
+    font-family: Arial;
+    margin: 0px;
+}
